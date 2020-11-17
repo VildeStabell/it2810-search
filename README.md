@@ -1,5 +1,13 @@
 # Search - IT2810 group 20
 
+This project was developed for an assignment in the course IT2810 - Web Development during the fall semester 2020.
+
+## Codeowners
+The project was created by 
+- Ingrid Amalie Solbjørg
+- Karoline Lillevester Langli
+- Vilde Voss Stabell (me)
+
 ## How to run the project
 
 Connect to the NTNU network through a VPN service.
