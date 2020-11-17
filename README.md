@@ -1,6 +1,7 @@
 # Search - IT2810 group 20
 
 This project was developed for an assignment in the course IT2810 - Web Development during the fall semester 2020.
+This project was tranferred from GitLab, which is why the commits and brances refer to issues not present here.
 
 ## Codeowners
 The project was created by 
